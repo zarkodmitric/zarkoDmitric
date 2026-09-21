@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**zarkodmitric/zarkoDmitric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, i'm Zarko Dmitric
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a beginner web developer passionate about
+learning programming and building web applications.
+
+Currently, I'm focused on improvingmy skills in JavaScript, React and Angular.
+
+Tehnologies & Tools:
+
+- HTML 
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Git 
+
+Currently Learning:
+
+- Advanced JavaScript
+- Angular
+- TypeScript
+
+Contact: 
+- Github - https://github.com/zarkodmitric
+- LinkedIn - /
