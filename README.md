@@ -27,4 +27,4 @@ Currently Learning:
 Contact: 
 - Github - https://github.com/zarkodmitric
 - LinkedIn - /
-- Protfolio site - https://zarko-protfolio.lovable.app
+- Protfolio site - https://zarko-dmitric-portfolio.lovable.app/
